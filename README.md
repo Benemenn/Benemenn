@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 Schéine gudde Moien alleguer!
 
-My name is Ben Cloos and originally I am from Luxemburg. I am an electromechanical engineering master student at [Fachhochschule Aachen[(www.fh-aachen.de).
-I got my Bachelor of Engineering at [Fachhochschule Aachen[(www.fh-aachen.de) in 2023.
+My name is Ben Cloos and originally I am from Luxemburg. I am an electromechanical engineering master student at [Fachhochschule Aachen](www.fh-aachen.de).
+I got my Bachelor of Engineering at [Fachhochschule Aachen](www.fh-aachen.de) in 2023.
 
 Automation technologies and PLC programming is one of my favourite fields. 
 
